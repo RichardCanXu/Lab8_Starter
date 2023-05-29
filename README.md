@@ -1,1 +1,3 @@
 # Lab 8 - Starter
+# Q1: Most suitable option would be to place automated tests within a GitHub action that runs whenever code is pushed. By integrating automated tests into the GitHub action, you can ensure that the code is thoroughly tested whenever changes are pushed to the repository.
+# Q2: No, end-to-end tests are not typically used to check if a specific function is returning the correct output
